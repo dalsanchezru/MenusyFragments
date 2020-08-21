@@ -1,0 +1,14 @@
+<resources>
+    <!-- Base application theme. -->
+
+    <!-- Antes tenía está línea de código para tomar una barra superior por defecto
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+    Pero ahora pondre una nueva barra porque yo quiero diseñar el tema:-->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+</resources>
